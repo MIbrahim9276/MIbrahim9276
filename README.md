@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MIbrahim9276
 - 👀 I’m interested in Web Development and Computer graphics applied in game development
-- 🌱 I’m currently learning ui and ux design
+- 🌱 I’m currently learning Mobile Development!
